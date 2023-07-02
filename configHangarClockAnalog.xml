@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+// Автор: AntonVK
+// http://anton.koudinov.ru
+// E-Mail: anton@koudinov.ru
+//
+// Мод для World of Tanks: Аналоговые часы в ангаре
+// http://wot.anton.koudinov.ru/hangar-clock-calculator
+//
+//
+//
+// Конфигурационный файл
+	//
+	//
+	* hangarClockAnalog align: left|center|right
+	* Глобальное горизонтальное выравнивание
+	* The global horizontal alignment
+	//
+	//
+	* position x,y: <number value>
+	* Положение объекта по оси X и Y
+	* The position of the object relative to XY-axes
+//
+-->
+
+<hangarClockAnalog align="center">
+
+	<ConfigClockAnalog>
+		<position x="544" y="2"/>
+	</ConfigClockAnalog>
+
+</hangarClockAnalog>
